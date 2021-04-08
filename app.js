@@ -36,6 +36,13 @@ todoList.addEventListener("click", (e) => {
   }
 });
 
+// Complete Todo
+
+todoList.addEventListener("click", (e) => {
+  if (e.target.tagName == "LI") {
+    e.target.style.textDecoration = "line-through";
+  }
+});
 
 // Search Todo
 

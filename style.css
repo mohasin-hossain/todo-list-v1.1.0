@@ -38,7 +38,7 @@ header h1 {
     padding: 1rem;
 }
 
-.todo li {
+.todo {
     display: flex;
     justify-content: space-between;
     padding: 1rem;
@@ -60,5 +60,9 @@ header h1 {
 .delete {
     cursor: pointer;
     color: rgb(199, 96, 96);
+}
+
+.filtered {
+  display: none;
 }
 

@@ -1,9 +1,15 @@
 ## Todo List version 1.1.0
 
-This is a Todo app to store and track your daily activities. You can add/delete as many todos as you want with just a single click. This is made with vanilla java script and CSS.
+This is the updated version of my previous Todo app that can store and track daily activities. It has minor changes, including a new complete task feature.
 
 ## Project Specifications
 
 - Add new task
 - Delete task
 - Complete task 
+
+## Technologies
+
+- HTML
+- CSS
+- JAVASCRIPT
